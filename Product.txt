@@ -3,4 +3,8 @@ remoteda değişikler ekledik....
 nsb branchi taskini tamamladı.
 
 bazı öz. ekledik:nsb
+
+nsb:öz ekledik.
+
 diğer dev öz ekledi.
+
